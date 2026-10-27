@@ -2,5 +2,33 @@
   {
     "name": "marvel pro",
     "url": "https://marvel.maract.info/marvel/pro/v1"
+  },
+  {
+    "name": "starnet",
+    "url": "https://starnet.maract.info/starnet/pro/v1"
+  },
+  {
+    "name": "nova",
+    "url": "https://nova.maract.info/nova/pro/v1"
+  },
+  {
+    "name": "scope",
+    "url": "https://scope.maract.info/scope/pro/v1"
+  },
+  {
+    "name": "goldstar",
+    "url": "https://goldstar.maract.info/goldstar/pro/v1"
+  },
+  {
+    "name": "mafia",
+    "url": "https://mafia.maract.info/mafia/pro/v1"
+  },
+  {
+    "name": "spider",
+    "url": "https://spider.maract.info/spider/pro/v1"
+  },
+  {
+    "name": "7star",
+    "url": "https://7star.maract.info/7star/pro/v1"
   }
 ]
